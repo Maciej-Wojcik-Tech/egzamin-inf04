@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\macie\\source\\repos\\testsuwaka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{547A043B-E3DA-40D9-830C-3CCE16B26529}|testsuwaka.csproj|c:\\users\\macie\\source\\repos\\testsuwaka\\resources\\layout\\activity_main.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{547A043B-E3DA-40D9-830C-3CCE16B26529}|testsuwaka.csproj|solutionrelative:resources\\layout\\activity_main.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547A043B-E3DA-40D9-830C-3CCE16B26529}|testsuwaka.csproj|c:\\users\\macie\\source\\repos\\testsuwaka\\resources\\drawable\\xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{547A043B-E3DA-40D9-830C-3CCE16B26529}|testsuwaka.csproj|solutionrelative:resources\\drawable\\xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547A043B-E3DA-40D9-830C-3CCE16B26529}|testsuwaka.csproj|c:\\users\\macie\\source\\repos\\testsuwaka\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547A043B-E3DA-40D9-830C-3CCE16B26529}|testsuwaka.csproj|solutionrelative:mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547A043B-E3DA-40D9-830C-3CCE16B26529}|testsuwaka.csproj|c:\\users\\macie\\source\\repos\\testsuwaka\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{547A043B-E3DA-40D9-830C-3CCE16B26529}|testsuwaka.csproj|solutionrelative:androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547A043B-E3DA-40D9-830C-3CCE16B26529}|testsuwaka.csproj|c:\\users\\macie\\source\\repos\\testsuwaka\\testsuwaka.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{547A043B-E3DA-40D9-830C-3CCE16B26529}|testsuwaka.csproj|solutionrelative:testsuwaka.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\macie\\source\\repos\\testsuwaka\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\macie\\source\\repos\\testsuwaka\\AndroidManifest.xml",
+              "RelativeToolTip": "AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-09-03T13:43:42.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\macie\\source\\repos\\testsuwaka\\MainActivity.cs",
+              "RelativeDocumentMoniker": "MainActivity.cs",
+              "ToolTip": "C:\\Users\\macie\\source\\repos\\testsuwaka\\MainActivity.cs",
+              "RelativeToolTip": "MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:40:38.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "activity_main.xml",
+              "DocumentMoniker": "C:\\Users\\macie\\source\\repos\\testsuwaka\\Resources\\layout\\activity_main.xml",
+              "RelativeDocumentMoniker": "Resources\\layout\\activity_main.xml",
+              "ToolTip": "C:\\Users\\macie\\source\\repos\\testsuwaka\\Resources\\layout\\activity_main.xml",
+              "RelativeToolTip": "Resources\\layout\\activity_main.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-09-02T19:26:33.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XMLFile1.xml",
+              "DocumentMoniker": "C:\\Users\\macie\\source\\repos\\testsuwaka\\Resources\\drawable\\XMLFile1.xml",
+              "RelativeDocumentMoniker": "Resources\\drawable\\XMLFile1.xml",
+              "ToolTip": "C:\\Users\\macie\\source\\repos\\testsuwaka\\Resources\\drawable\\XMLFile1.xml",
+              "RelativeToolTip": "Resources\\drawable\\XMLFile1.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-09-02T20:14:34.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "testsuwaka.csproj",
+              "DocumentMoniker": "C:\\Users\\macie\\source\\repos\\testsuwaka\\testsuwaka.csproj",
+              "RelativeDocumentMoniker": "testsuwaka.csproj",
+              "ToolTip": "C:\\Users\\macie\\source\\repos\\testsuwaka\\testsuwaka.csproj",
+              "RelativeToolTip": "testsuwaka.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T20:12:04.412Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

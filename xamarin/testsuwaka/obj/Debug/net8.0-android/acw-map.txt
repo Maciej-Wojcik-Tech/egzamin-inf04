@@ -1,0 +1,3 @@
+testsuwaka.MainActivity, testsuwaka;crc643f2523e19fa2699e.MainActivity
+testsuwaka.MainActivity;crc643f2523e19fa2699e.MainActivity
+testsuwaka.MainActivity;crc643f2523e19fa2699e.MainActivity
