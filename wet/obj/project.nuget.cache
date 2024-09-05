@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PtDxhf1V+jQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\macie\\source\\repos\\wet\\wet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\macie\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
