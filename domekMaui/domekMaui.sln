@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "domekMaui", "domekMaui.csproj", "{1ABC59D9-2F77-4AE8-9120-277524A390EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ABC59D9-2F77-4AE8-9120-277524A390EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABC59D9-2F77-4AE8-9120-277524A390EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABC59D9-2F77-4AE8-9120-277524A390EF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1ABC59D9-2F77-4AE8-9120-277524A390EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABC59D9-2F77-4AE8-9120-277524A390EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ABC59D9-2F77-4AE8-9120-277524A390EF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {271BA7D9-E5CE-4F63-809E-2F79F1928333}
+	EndGlobalSection
+EndGlobal
