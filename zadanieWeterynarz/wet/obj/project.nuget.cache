@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PtDxhf1V+jQ=",
+  "dgSpecHash": "8cZZq9r5ZI0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\macie\\source\\repos\\wet\\wet.csproj",
+  "projectFilePath": "C:\\Users\\macie\\Documents\\GitHub\\egzamin-inf04\\zadanieWeterynarz\\wet\\wet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\macie\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512"
   ],

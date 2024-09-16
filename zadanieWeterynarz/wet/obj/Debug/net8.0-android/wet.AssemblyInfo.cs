@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("wet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+cb64c5f42318c80fc7535a369c5fdbf7a73aa38b")]
 [assembly: System.Reflection.AssemblyProductAttribute("wet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("wet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

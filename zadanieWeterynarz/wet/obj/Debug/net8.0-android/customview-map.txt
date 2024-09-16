@@ -7,8 +7,8 @@ color;obj\Debug\net8.0-android\res\values\ic_launcher_background.xml
 EditText;obj\Debug\net8.0-android\res\layout\activity_main.xml
 foreground;obj\Debug\net8.0-android\res\mipmap-anydpi-v26\appicon.xml
 foreground;obj\Debug\net8.0-android\res\mipmap-anydpi-v26\appicon_round.xml
+LinearLayout;obj\Debug\net8.0-android\res\layout\activity_main.xml
 ListView;obj\Debug\net8.0-android\res\layout\activity_main.xml
-RelativeLayout;obj\Debug\net8.0-android\res\layout\activity_main.xml
 resources;obj\Debug\net8.0-android\res\values\ic_launcher_background.xml
 resources;obj\Debug\net8.0-android\res\values\strings.xml
 SeekBar;obj\Debug\net8.0-android\res\layout\activity_main.xml
