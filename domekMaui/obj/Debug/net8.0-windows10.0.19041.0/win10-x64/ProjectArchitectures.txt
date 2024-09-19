@@ -1,1 +1,1 @@
-C:\Users\macie\source\repos\domekMaui\domekMaui.csproj;x64
+C:\Users\macie\Documents\GitHub\egzamin-inf04\domekMaui\domekMaui.csproj;x64
