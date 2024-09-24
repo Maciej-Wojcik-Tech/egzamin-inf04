@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="weterynarz.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <Label
+                Text="wizyta u weterynarza"
+                Style="{StaticResource Headline}"
+                SemanticProperties.HeadingLevel="Level1" FontSize="Header" TextColor="#2E8B57" Padding="10"/>
+            
+<Entry Placeholder="imię i nazwisko właściciela" x:Name="imie"/>
+            
+<Label Text="gatunek" x:Name="gatunek"/>
+            
+<ListView x:Name="animalList"
+          ItemSelected="animalList_ItemSelected"><ListView.ItemTemplate><DataTemplate>
+                        <TextCell Text="{Binding}"></TextCell></DataTemplate></ListView.ItemTemplate></ListView>
+            
+<Label Text="iLe ma lat? 0" x:Name="Age"/>
+            
+<Slider Minimum="0" Maximum="20" x:Name="suwak" ValueChanged="suwak_ValueChanged"/>
+            
+<Entry Placeholder="cel wizyty" x:Name="cel"/>
+
+
+            <TimePicker Format="HH:MM" Time="16:00" x:Name="czas"/>
+            <Button
+                x:Name="CounterBtn"
+                Text="Ok." 
+                SemanticProperties.Hint=""
+                Clicked="OnCounterClicked"
+                HorizontalOptions="Fill" />
+            <Label Text="" x:Name="result"></Label>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
