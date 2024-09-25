@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewData["Title"] = "Kalkulator";
+}
+
+<h1>Kalkulator</h1>
+
+<div class="text-center">
+	<h4 class="display-4">Kalkulator odsetek</h4>
+</div>
+<div>
+	<form asp-controller="Home" asp-action="kalkulator" method="post">
+		<div>
+			<label>Ilosc</label>
+			<input type="text" placeholder="Wprowadz miesiac" name="amount" />
+			<span class="text-danger"></span>
+		</div>
+		<div>
+			<label>Oprocentowanie</label>
+			<input type="text" placeholder="Wprowadz stope procentowa" name="interestRate" />
+			<span class="text-danger"></span>
+		</div>
+		<div>
+			<label>Liczba Lat</label>
+			<input type="number" placeholder="Wprowadz liczbe lat" name="numberOfYears" />
+			<span class="text-danger"></span>
+		</div>
+		<button type="submit">Oblicz</button>
+	</form>
+
+	@{
+		if (ViewBag.Result != null)
+		{
+			<div>
+				<p>@ViewBag.Result</p>
+			</div>
+		}
+	}
+</div>
+
+

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\kalkulator aspnetcoremvc.props" />
+</Project>

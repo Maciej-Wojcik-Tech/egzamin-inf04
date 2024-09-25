@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4GywdBOFxSEkqV+YYeV4+WWgqdfWtSK4j3wcBIhWi0P3iJGTj1/cd9hIegf69J+7xdloxdpADgCgeEKNYfGRuw==",
+  "dgSpecHash": "kGW6U+A8Ttw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\macie\\Source\\Repos\\egzamin-inf04\\forms\\WinFormsApp3\\WinFormsApp3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\macie\\Documents\\GitHub\\egzamin-inf04\\forms\\WinFormsApp3\\WinFormsApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\macie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\macie\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\macie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\macie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
   "logs": []
 }
