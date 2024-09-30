@@ -21,7 +21,48 @@ namespace AplikacjaInternetowa.Controllers
         {
             return View();
         }
+        public IActionResult Kontakt()
+        {
+            return View();
+        }
+        public IActionResult Kalkulator()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult Kalkulator(double l1, double l2, string operation)
+        {
+            double equals = 0;
+            switch (operation)
+            {
 
+                case "+":
+                    {
+                        equals = l1 + l2;
+                        break;
+                    }
+                case "-":
+                    {
+                        equals = l1 - l2;
+                        break;
+                    }
+                case "*":
+                    {
+                        equals = l1 * l2;
+                        break;
+                    }
+                case "/":
+                    {
+                        equals = l1 / l2;
+                        
+                        break;
+
+                    }
+             }
+            ViewBag.Result = equals;
+            return View();
+        }
+    
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
@@ -30,3 +71,13 @@ namespace AplikacjaInternetowa.Controllers
         }
     }
 }
+
+/*
+ 
+ [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        public IActionResult Error()
+        {
+            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+ 
+ */

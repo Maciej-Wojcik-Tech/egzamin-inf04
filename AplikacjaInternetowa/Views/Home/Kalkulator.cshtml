@@ -1,0 +1,34 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>mój kalkulator</h1>
+<div>
+<form asp-action="kalkulator" method="post">
+    <div>
+        <label for="liczba1">
+          Wpisz liczbę  <input id="Text1" type="number" name="l1"/>
+        </label>
+        <select id="Select1" name="operation">
+<option value="+">dodaj +</option>
+<option value="-">odejmij -</option>
+<option value="*">pomnórz *</option>
+<option value="/">podziel /</option>
+
+</select>
+        <label for="Text2" >
+<input id="Text2" type="number" name="l2"/>
+</label>
+    </div>
+<button type="submit" id="wyslij"> wyślij</button>
+</form>
+    @{
+        if (ViewBag.Result != null)
+        {
+            <div>
+                <p> @ViewBag.Result</p>
+            </div>
+        }
+       
+    }
