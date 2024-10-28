@@ -1,0 +1,25 @@
+﻿@using System.Collections
+@model IEnumerable<baza_danych.Models.Samochody>
+@{
+    ViewBag.Title = "Chińska podróbka privacy, polecana przez firmę Goophone";
+
+}
+<h2>Giełda samochodowa:</h2>
+<!-- wyświetlanie tabeli w bazie danych -->
+@foreach (var item in Model)
+{
+    <!-- wyświetlanie kolumny Marka -->
+    @item.Marka
+    ;
+    <span> </span>
+    <!-- wyświetlanie kolumny model -->
+    @item.Model
+    ;
+    <span> </span>
+    <!-- wyświetlanie kolumny rocznik -->
+    @item.Rocznik
+    ;
+    <br />
+
+}
+
