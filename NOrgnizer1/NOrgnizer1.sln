@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NOrgnizer1", "NOrgnizer1.csproj", "{F11A5F4D-EEBC-4818-B42C-2F7926B743DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F11A5F4D-EEBC-4818-B42C-2F7926B743DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11A5F4D-EEBC-4818-B42C-2F7926B743DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F11A5F4D-EEBC-4818-B42C-2F7926B743DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11A5F4D-EEBC-4818-B42C-2F7926B743DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCC20DCB-95BF-4C1B-B6C5-C0A71CBE3A41}
+	EndGlobalSection
+EndGlobal

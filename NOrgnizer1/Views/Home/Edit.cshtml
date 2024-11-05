@@ -1,0 +1,38 @@
+﻿@model Zadanie
+
+<h1>Edytuj zadanie</h1>
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="Id" />
+    <div>
+        <label asp-for="Waznosc"></label>
+        <input asp-for="Waznosc" />
+        <span asp-validation-for="Waznosc"></span>
+    </div>
+    <div>
+        <label asp-for="Grupa"></label>
+        <input asp-for="Grupa" />
+        <span asp-validation-for="Grupa"></span>
+    </div>
+    <div>
+        <label asp-for="DataWykonania"></label>
+        <input asp-for="DataWykonania" />
+        <span asp-validation-for="DataWykonania"></span>
+    </div>
+    <div>
+        <label asp-for="DataPrzypomnienia"></label>
+        <input asp-for="DataPrzypomnienia" />
+        <span asp-validation-for="DataPrzypomnienia"></span>
+    </div>
+    <div>
+        <label asp-for="DataZakonczenia"></label>
+        <input asp-for="DataZakonczenia" />
+        <span asp-validation-for="DataZakonczenia"></span>
+    </div>
+    <div>
+        <label asp-for="Tresc"></label>
+        <input asp-for="Tresc" />
+        <span asp-validation-for="Tresc"></span>
+    </div>
+    <button type="submit">Zapisz zmiany</button>
+</form>

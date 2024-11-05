@@ -1,0 +1,42 @@
+﻿
+@using System.Collections
+@model IEnumerable<NOrgnizer1.Models.Zadanie>
+<h1>Zadania</h1>
+
+<p>
+    <a asp-action="Create">Dodaj nowe zadanie</a>
+</p>
+<p>
+    <a asp-action="Filtr">Sortuj zadania</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Ważność</th>
+            <th>Grupa</th>
+            <th>Data wykonania</th>
+            <th>Data przypomnienia</th>
+            <th>Data zakończenia</th>
+            <th>Tresc</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Waznosc</td>
+                <td>@item.Grupa</td>
+                <td>@item.DataWykonania?.ToString("dd-MM-yyyy")</td>
+                <td>@item.DataPrzypomnienia?.ToString("dd-MM-yyyy")</td>
+                <td>@item.DataZakonczenia?.ToString("dd-MM-yyyy")</td>
+                <td>@item.Tresc.ToString()</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edytuj</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Usuń</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
