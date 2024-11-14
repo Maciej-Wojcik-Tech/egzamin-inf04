@@ -1,0 +1,22 @@
+﻿@using System.Collections
+@model IEnumerable<baza_danych.Models.Kontakt>
+@{
+    ViewBag.Title = "Privacy";
+        
+}
+<h2>Dane Kontaktowe:</h2>
+<!-- wyświetlanie tabeli w bazie danych -->
+@foreach (var item in Model)
+{
+    <!-- wyświetlanie kolumny imie -->
+    @item.Imie;
+    <span> </span>
+    <!-- wyświetlanie kolumny nazwisko -->
+    @item.Nazwisko;
+    <span> </span>
+    <!-- wyświetlanie kolumny email -->
+    @item.Email;
+    <br />
+
+}
+

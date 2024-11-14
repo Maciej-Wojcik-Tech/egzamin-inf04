@@ -1,0 +1,33 @@
+﻿@using System.Collections
+@model IEnumerable<NOrgnizer1.Models.Zadanie>
+
+
+
+<h1>Dodaj nowe zadanie</h1>
+<form asp-controller="Home" asp-action="Create" method="post">
+   
+      Waznosc 
+        <input type="number" name="Waznosc" value="" />
+    <br />
+
+    Grupa
+    <input type="number" name="Grupa" value="" />
+    <br />
+
+    Data wykonania
+    <input type="datetime" name="DataWykonania" value="" />
+    <br />
+
+    Data Przypomnienia
+    <input type="datetime" name="DataPrzypomnienia" value="" />
+    <br />
+
+    Data Zakonczenia
+    <input type="datetime" name="DataZakonczenia" value="" />
+    <br />
+    
+    <input type="text" name="Tresc" value="" />
+    <br />
+    
+    <button type="submit">Dodaj</button>
+</form>

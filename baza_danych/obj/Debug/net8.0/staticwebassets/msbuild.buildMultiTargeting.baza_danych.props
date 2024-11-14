@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\baza_danych.props" />
+</Project>

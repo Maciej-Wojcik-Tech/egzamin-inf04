@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|c:\\users\\maciej\\source\\repos\\baza_danych\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|c:\\users\\maciej\\source\\repos\\baza_danych\\models\\kontakt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|solutionrelative:models\\kontakt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|c:\\users\\maciej\\source\\repos\\baza_danych\\models\\samochody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|solutionrelative:models\\samochody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|c:\\users\\maciej\\source\\repos\\baza_danych\\views\\home\\usunsamochody.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|solutionrelative:views\\home\\usunsamochody.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|c:\\users\\maciej\\source\\repos\\baza_danych\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|c:\\users\\maciej\\source\\repos\\baza_danych\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|c:\\users\\maciej\\source\\repos\\baza_danych\\views\\home\\dodajsamochody.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|solutionrelative:views\\home\\dodajsamochody.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|c:\\users\\maciej\\source\\repos\\baza_danych\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|c:\\users\\maciej\\source\\repos\\baza_danych\\migrations\\20241028102042_jijij.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|solutionrelative:migrations\\20241028102042_jijij.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|c:\\users\\maciej\\source\\repos\\baza_danych\\models\\dal\\kontaktycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|solutionrelative:models\\dal\\kontaktycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|c:\\users\\maciej\\source\\repos\\baza_danych\\migrations\\20241007093412_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|solutionrelative:migrations\\20241007093412_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|c:\\users\\maciej\\source\\repos\\baza_danych\\migrations\\20241021092129_db2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|solutionrelative:migrations\\20241021092129_db2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|c:\\users\\maciej\\source\\repos\\baza_danych\\migrations\\20241028102649_migracja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDE3337-8716-4FAB-A08F-2AA50E520DB0}|baza_danych.csproj|solutionrelative:migrations\\20241028102649_migracja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241028102042_jijij.cs",
+              "DocumentMoniker": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Migrations\\20241028102042_jijij.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241028102042_jijij.cs",
+              "ToolTip": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Migrations\\20241028102042_jijij.cs",
+              "RelativeToolTip": "Migrations\\20241028102042_jijij.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:20:42.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DodajSamochody.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Views\\Home\\DodajSamochody.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\DodajSamochody.cshtml",
+              "ToolTip": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Views\\Home\\DodajSamochody.cshtml",
+              "RelativeToolTip": "Views\\Home\\DodajSamochody.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T08:07:07.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T07:59:42.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwDcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:56:14.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241007093412_DB.cs",
+              "DocumentMoniker": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Migrations\\20241007093412_DB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241007093412_DB.cs",
+              "ToolTip": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Migrations\\20241007093412_DB.cs",
+              "RelativeToolTip": "Migrations\\20241007093412_DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:34:13.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T08:04:57.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Samochody.cs",
+              "DocumentMoniker": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Models\\Samochody.cs",
+              "RelativeDocumentMoniker": "Models\\Samochody.cs",
+              "ToolTip": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Models\\Samochody.cs",
+              "RelativeToolTip": "Models\\Samochody.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:13:02.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsunSamochody.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Views\\Home\\UsunSamochody.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\UsunSamochody.cshtml",
+              "ToolTip": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Views\\Home\\UsunSamochody.cshtml",
+              "RelativeToolTip": "Views\\Home\\UsunSamochody.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T10:32:22.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwCQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T10:57:40.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kontakt.cs",
+              "DocumentMoniker": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Models\\Kontakt.cs",
+              "RelativeDocumentMoniker": "Models\\Kontakt.cs",
+              "ToolTip": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Models\\Kontakt.cs",
+              "RelativeToolTip": "Models\\Kontakt.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:08:58.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241028102649_Migracja.cs",
+              "DocumentMoniker": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Migrations\\20241028102649_Migracja.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241028102649_Migracja.cs",
+              "ToolTip": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Migrations\\20241028102649_Migracja.cs",
+              "RelativeToolTip": "Migrations\\20241028102649_Migracja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:26:49.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KontaktyContext.cs",
+              "DocumentMoniker": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Models\\DAL\\KontaktyContext.cs",
+              "RelativeDocumentMoniker": "Models\\DAL\\KontaktyContext.cs",
+              "ToolTip": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Models\\DAL\\KontaktyContext.cs",
+              "RelativeToolTip": "Models\\DAL\\KontaktyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:20:27.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241021092129_db2.cs",
+              "DocumentMoniker": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Migrations\\20241021092129_db2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241021092129_db2.cs",
+              "ToolTip": "C:\\Users\\Maciej\\source\\repos\\baza_danych\\Migrations\\20241021092129_db2.cs",
+              "RelativeToolTip": "Migrations\\20241021092129_db2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:21:29.488Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
