@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\macie\\source\\repos\\filmyAspNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70EB9A58-BE34-4719-94A5-EE52FB2811C9}|filmyAspNet.csproj|c:\\users\\macie\\source\\repos\\filmyaspnet\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70EB9A58-BE34-4719-94A5-EE52FB2811C9}|filmyAspNet.csproj|solutionrelative:views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EB9A58-BE34-4719-94A5-EE52FB2811C9}|filmyAspNet.csproj|c:\\users\\macie\\source\\repos\\filmyaspnet\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70EB9A58-BE34-4719-94A5-EE52FB2811C9}|filmyAspNet.csproj|solutionrelative:views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EB9A58-BE34-4719-94A5-EE52FB2811C9}|filmyAspNet.csproj|c:\\users\\macie\\source\\repos\\filmyaspnet\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EB9A58-BE34-4719-94A5-EE52FB2811C9}|filmyAspNet.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EB9A58-BE34-4719-94A5-EE52FB2811C9}|filmyAspNet.csproj|c:\\users\\macie\\source\\repos\\filmyaspnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70EB9A58-BE34-4719-94A5-EE52FB2811C9}|filmyAspNet.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EB9A58-BE34-4719-94A5-EE52FB2811C9}|filmyAspNet.csproj|c:\\users\\macie\\source\\repos\\filmyaspnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70EB9A58-BE34-4719-94A5-EE52FB2811C9}|filmyAspNet.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EB9A58-BE34-4719-94A5-EE52FB2811C9}|filmyAspNet.csproj|c:\\users\\macie\\source\\repos\\filmyaspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EB9A58-BE34-4719-94A5-EE52FB2811C9}|filmyAspNet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EB9A58-BE34-4719-94A5-EE52FB2811C9}|filmyAspNet.csproj|c:\\users\\macie\\source\\repos\\filmyaspnet\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EB9A58-BE34-4719-94A5-EE52FB2811C9}|filmyAspNet.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EB9A58-BE34-4719-94A5-EE52FB2811C9}|filmyAspNet.csproj|c:\\users\\macie\\source\\repos\\filmyaspnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70EB9A58-BE34-4719-94A5-EE52FB2811C9}|filmyAspNet.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EB9A58-BE34-4719-94A5-EE52FB2811C9}|filmyAspNet.csproj|c:\\users\\macie\\source\\repos\\filmyaspnet\\migrations\\20241110141327_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EB9A58-BE34-4719-94A5-EE52FB2811C9}|filmyAspNet.csproj|solutionrelative:migrations\\20241110141327_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\macie\\source\\repos\\filmyAspNet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\macie\\source\\repos\\filmyAspNet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwBsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T14:09:58.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\macie\\source\\repos\\filmyAspNet\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\macie\\source\\repos\\filmyAspNet\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T14:35:46.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\macie\\source\\repos\\filmyAspNet\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\macie\\source\\repos\\filmyAspNet\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T14:34:50.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\macie\\source\\repos\\filmyAspNet\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\macie\\source\\repos\\filmyAspNet\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwCMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:07:57.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\macie\\source\\repos\\filmyAspNet\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\macie\\source\\repos\\filmyAspNet\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-10T14:41:31.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\macie\\source\\repos\\filmyAspNet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\macie\\source\\repos\\filmyAspNet\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:38:53.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\macie\\source\\repos\\filmyAspNet\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\macie\\source\\repos\\filmyAspNet\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:57:12.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241110141327_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\macie\\source\\repos\\filmyAspNet\\Migrations\\20241110141327_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241110141327_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\macie\\source\\repos\\filmyAspNet\\Migrations\\20241110141327_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241110141327_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:13:28.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\macie\\source\\repos\\filmyAspNet\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\macie\\source\\repos\\filmyAspNet\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T20:31:11.644Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
