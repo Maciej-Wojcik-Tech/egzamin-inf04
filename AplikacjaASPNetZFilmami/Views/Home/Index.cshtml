@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <label for="tyt">tytuł filmu</label><input type="text" id="tyt" />
+    <select id="typ">
+        <option></option>
+        <option> komedia</option>
+        <option> obyczajowy</option>
+        <option> sensacyjny</option>
+        <option> horror</option>
+
+    </select>
+    <button id="dodaj"> dodaj</button>
+</div>
+<script>
+    document.getElementById("dodaj").addEventListener("click", function () {
+        const tytul = document.getElementById("tyt").value;
+        console.log("tytuł filmu: " + tytul);
+    });
+</script>
