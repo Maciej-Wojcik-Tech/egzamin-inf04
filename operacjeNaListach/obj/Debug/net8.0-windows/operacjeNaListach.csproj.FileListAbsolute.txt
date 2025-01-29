@@ -1,0 +1,16 @@
+C:\Users\Egzamin\source\repos\operacjeNaListach\bin\Debug\net8.0-windows\operacjeNaListach.exe
+C:\Users\Egzamin\source\repos\operacjeNaListach\bin\Debug\net8.0-windows\operacjeNaListach.deps.json
+C:\Users\Egzamin\source\repos\operacjeNaListach\bin\Debug\net8.0-windows\operacjeNaListach.runtimeconfig.json
+C:\Users\Egzamin\source\repos\operacjeNaListach\bin\Debug\net8.0-windows\operacjeNaListach.dll
+C:\Users\Egzamin\source\repos\operacjeNaListach\bin\Debug\net8.0-windows\operacjeNaListach.pdb
+C:\Users\Egzamin\source\repos\operacjeNaListach\obj\Debug\net8.0-windows\operacjeNaListach.Form1.resources
+C:\Users\Egzamin\source\repos\operacjeNaListach\obj\Debug\net8.0-windows\operacjeNaListach.csproj.GenerateResource.cache
+C:\Users\Egzamin\source\repos\operacjeNaListach\obj\Debug\net8.0-windows\operacjeNaListach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egzamin\source\repos\operacjeNaListach\obj\Debug\net8.0-windows\operacjeNaListach.AssemblyInfoInputs.cache
+C:\Users\Egzamin\source\repos\operacjeNaListach\obj\Debug\net8.0-windows\operacjeNaListach.AssemblyInfo.cs
+C:\Users\Egzamin\source\repos\operacjeNaListach\obj\Debug\net8.0-windows\operacjeNaListach.csproj.CoreCompileInputs.cache
+C:\Users\Egzamin\source\repos\operacjeNaListach\obj\Debug\net8.0-windows\operacjeNaListach.dll
+C:\Users\Egzamin\source\repos\operacjeNaListach\obj\Debug\net8.0-windows\refint\operacjeNaListach.dll
+C:\Users\Egzamin\source\repos\operacjeNaListach\obj\Debug\net8.0-windows\operacjeNaListach.pdb
+C:\Users\Egzamin\source\repos\operacjeNaListach\obj\Debug\net8.0-windows\operacjeNaListach.genruntimeconfig.cache
+C:\Users\Egzamin\source\repos\operacjeNaListach\obj\Debug\net8.0-windows\ref\operacjeNaListach.dll
